@@ -1,0 +1,70 @@
+div {
+	border-radius: 5px;
+}
+
+p {
+	color: white;
+	text-align: center;
+}
+
+img {
+	height: 200px;
+	border-radius: 25px;
+}
+
+#header {
+	position: relative;
+	width: 75%;
+	margin-top: 25px;
+	height: 30px;
+	background-color: black;
+	margin-bottom: 10px;
+	padding-left: 25%;
+	padding-right:25%;
+}
+
+
+
+#nav {
+	float: left;
+	padding-left:120px;
+	height: 30px;
+	margin-top: -10px;
+}
+
+#title {
+	position: fixed;
+	width: 100px;
+	background-color: black;
+	margin-left: 20px;
+	margin-top: -50px;
+};
+
+.profile {
+	position: relative;
+	clear: left;
+}
+
+.profile > p {
+	color: black;
+}
+
+table {
+	position: relative;
+	width:100%;
+	text-align: center;
+	margin-top: 40px;
+}
+
+td {
+	width: 50%;
+}
+
+#footer {
+	position: relative;
+	width: 105%;
+	margin-bottom: -10px;
+	background-color: black;
+	height: 10px;
+	margin-left: -20px;
+}
